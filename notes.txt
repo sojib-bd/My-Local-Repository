@@ -1,0 +1,4 @@
+
+This is a new Branch called feature-update.
+This note is created in the newly created branch.
+This note will be updated gradually.
